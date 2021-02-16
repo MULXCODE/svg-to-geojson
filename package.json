@@ -10,7 +10,7 @@
     "@turf/turf": "^5.1.6",
     "create-react-class": "^15.6.3",
     "filesaver.js": "^0.2.0",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.19",
     "mapbox-gl": "^0.44.1",
     "pathologist": "^0.1.9",
     "react": "^16.6.0",
